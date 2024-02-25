@@ -1,0 +1,27 @@
+#test {
+    text-align: center;
+    text-shadow: 1px 1px 1px orangered;
+}
+
+a:link {
+    font-size: 30px;
+    color: crimson;
+}
+
+/* a:visited {
+    font-size: 30px;
+    color: rgb(5, 117, 3);
+} */
+
+a:hover {
+    color: darkorange;
+}
+
+a:active {
+    color: black;
+}
+
+
+
+
+/* this is comment */
